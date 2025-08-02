@@ -37,6 +37,7 @@ This project visualizes the **TCGA-PANCAN cancer dataset** (801 samples × 20,53
 
 ## 🛠️ Installation  
 ```bash
+you can get the venv and dataset from https://drive.google.com/drive/folders/1ldydSquez2a4gQPU088upA26uZWOkZez?usp=drive_link
 git clone https://github.com/yourusername/cancer-data-visualization.git
 cd cancer-data-visualization
 pip install -r requirements.txt  # numpy, scikit-learn, umap-learn, matplotlib
